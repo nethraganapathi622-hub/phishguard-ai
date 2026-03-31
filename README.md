@@ -88,7 +88,11 @@ npm run dev
 
 ## 📸 Screenshots
 
-(Add your project screenshots here)
+<img width="1716" height="913" alt="image" src="https://github.com/user-attachments/assets/06baa9e3-35ab-43e9-a577-a1fbbf912fdc" />
+<img width="1926" height="1030" alt="image" src="https://github.com/user-attachments/assets/b14b1526-dc69-4a38-94e9-bd54f3cc105a" />
+<img width="1865" height="886" alt="image" src="https://github.com/user-attachments/assets/a2fc9ddb-8e0c-4f38-90d9-f9584007f049" />
+![Uploading image.png…]()
+
 
 ---
 
@@ -102,7 +106,7 @@ npm run dev
 
 ## 👩‍💻 Author
 
-**Nethra Ganapathi**
+**Nethra G**
 
 ---
 
